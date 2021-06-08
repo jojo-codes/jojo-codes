@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Dev
 - 🌱 I’m currently doing the Google SPS Program
 - 💞️ I’m looking to collaborate on Web Application
-- 📫 How to reach me at {https://www.instagram.com/_joanjohn_/}
+- 📫 How to reach me at https://www.instagram.com/_joanjohn_/
 
 <!---
 jojo-codes/jojo-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
